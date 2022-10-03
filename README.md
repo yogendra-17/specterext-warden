@@ -32,6 +32,25 @@ cd specter-desktop
 pip3.8 install -r requirements.txt 
 #install all the compatible packages version using pip installation,if recieve uncompatible package warning.
 pip3 install -e .
+
+```
+## Run server
+``` bash
 # Start specter
 python3 -m cryptoadvance.specter server --config DevelopmentConfig --debug
+
 ```
+## Screenshot
+![Screenshot](https://user-images.githubusercontent.com/54116506/193618081-0f442b96-0636-49d6-8641-1df1ca4b3137.png)
+![image](https://user-images.githubusercontent.com/54116506/193618327-63dcff08-e0e2-4747-b04b-8b19f4fa3139.png)
+![Screenshot from 2022-08-26 13-34-56](https://user-images.githubusercontent.com/54116506/193618448-95f8bd72-fc59-494d-992a-ba8c74be3062.png)
+
+## Contribution
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+We believe Open Source is the future of development for bitcoin. There is no other way when transparency and privacy are critical.
+
+The code is not compiled and it can be easily audited. It can also be modified and distributed as anyone wishes.
+
+
