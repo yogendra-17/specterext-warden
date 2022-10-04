@@ -21,9 +21,9 @@ This app was built with a couple of goals:
 ```bash
 git clone https://github.com/yogendra-17/specterext-warden.git
 
-# we assume that you have cloned specter-desktop in parallel with amp-issuer
+# we assume that you have cloned specter-desktop in parallel with specterext-warden
 
-cd specter-desktop
+cd specterext-warden
 
 # Use the environment from specter-desktop
 . ../specter-desktop/.env/bin/activate
